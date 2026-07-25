@@ -1,3 +1,23 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Quarto (if you eventually use it)
+.quarto/
+_site/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
